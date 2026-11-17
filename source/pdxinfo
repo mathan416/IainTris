@@ -1,0 +1,12 @@
+name=IainTris
+author=Mathan Games
+description=A falling-block puzzle game for Playdate, with crank-assisted dropping.
+bundleID=com.mathan.iaintris
+version=1.2
+buildNumber=5
+imagePath=assets/launcher
+contentWarning=This game contains intense block-stacking action and questionable architectural practices.
+contentWarning2=Excessive play may result in humming the theme song that isn’t included.
+contentWarning3=May cause sudden nostalgia for the 1980s.
+contentWarning4=Contains tetrominoes. Handle responsibly.
+contentWarning5=Includes brief animated transitions and high-stakes block drama.
